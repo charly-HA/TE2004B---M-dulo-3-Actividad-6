@@ -8,9 +8,9 @@
 //				calculate the improvement obtained with parallel
 //				technologies.
 // =================================================================
-// Tiempo secuencial: 816.423 ms
-// Tiempo paralelo: 416.892 ms 
-// Speedup: 1.95835
+// Tiempo secuencial: 11024.921 ms
+// Tiempo paralelo: 7356.52 ms 
+// Speedup: 1.4986
 //
 // =================================================================
 
